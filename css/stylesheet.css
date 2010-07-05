@@ -160,3 +160,13 @@ a:hover {
     position: relative;
     top: 15px;
 }
+
+blockquote { 
+    margin: 0 18px 18px 18px;
+    font-size:12px;
+    color:#666;
+    padding-left:10px;
+    border-left:1px solid #ccc;
+}
+
+pre { margin: 0 18px 18px 18px;}
