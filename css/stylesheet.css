@@ -1,9 +1,13 @@
+@import url('/css/pub.css');
+
 * {
   margin: 0;
   padding: 0;
 
   font-family: Georgia, Palatino, Times, 'Times New Roman', sans-serif;
 }
+
+
 
 body {
   background: #fff;
@@ -23,13 +27,30 @@ a:hover {
 }
 
 #main {
-  float: right; 
-  width: 75%;
 
-  top: 50px;
+  margin-top: 10px;
+  margin-left:140px;
+  
+
+
+    /*float: right;*/ 
+/*
+         padding: 10px 100px 0 0;  
+
+   
+         float:left;
+position:absolute;
+  width: 90%;
+
+        float:left;
   left: 20px;
+           margin-left:143px;
 
-  margin: 20px -5px 0 0;
+    float:left;
+    width: 75%;
+
+
+       */
 
   /*width: 500px;*/
 }
@@ -40,7 +61,7 @@ a:hover {
 
   line-height: 40px;
 
-  letter-spacing: -1px;
+  letter-spacing: 0px;
 }
 
 #main p {
@@ -65,19 +86,26 @@ a:hover {
 }
 
 #sidebar {
-    float: left;
-    width: 200px;
-    top: 40px;
-    left: 20px;
-  /*height: 1000px;*/
-
-    margin: 20px -5px 0 0;
-
-  padding: 20px 20px 0 0;
+    
 
   border-right: 1px solid #ccc;
+    float: left;
 
   text-align: right;
+     width: 120px;
+
+    padding: 10px 10px 0 0;
+    margin: 10px 0 0 0;
+
+    
+    /*
+    top: 40px;
+    left: 20px;
+       height: 1000px;
+  
+
+       
+       */
 }
 
 #sidebar h2 {
