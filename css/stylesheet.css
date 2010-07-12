@@ -16,6 +16,7 @@
 
 body {
   background: #fff;
+      width: 100%;
 }
 
 a {
@@ -161,7 +162,7 @@ position:absolute;
 }
 
 #logo h1 #img {
-    width: 1500px;
+    width: 100%;
     height: 150px;
     background: transparent url("/images/banner.jpg") no-repeat top left;
     text-indent:0em;
