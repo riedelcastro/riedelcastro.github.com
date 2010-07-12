@@ -3,5 +3,14 @@ layout: site
 title: Sebastian Riedel
 ---
 
-I am Sebastian Riedel, and I'm currently a postdoctoral researcher at the University of Massachusetts, working with Andrew McCallum in the IESL lab.
+I am Sebastian Riedel, and I'm currently a postdoctoral researcher at the "University of Massachusetts":http://www.umass.edu, working with "Andrew McCallum":http://www.cs.umass.edu/~mccallum/ in the "IESL lab":http://iesl.cs.umass.edu/.
+
+My research interests lie in the intersection of 
+
+* **Natural Language Processing**, and in particular Machine Reading/Information Extraction
+* Statistical Relational Learning, Probabilistic Programming, and generally the **interface between AI applications and Machine Learning** Technology
+* Learning with **minimal supervision**
+* **Efficient Inference** in large scale factor graphs
   
+
+See my "publications":/publications/all.html and "software":/software.html for more details.
