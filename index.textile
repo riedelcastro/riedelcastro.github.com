@@ -1,0 +1,7 @@
+---
+layout: site
+title: Sebastian Riedel
+---
+
+I am Sebastian Riedel, and I'm currently a postdoctoral researcher at the University of Massachusetts, working with Andrew McCallum in the IESL lab.
+  
