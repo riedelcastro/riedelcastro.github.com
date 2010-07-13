@@ -34,7 +34,7 @@ a:hover {
 
 #main {
 
-  margin-top: 10px;
+  margin-top: 15px;
   margin-left:140px;
   margin-right:10px;
 
@@ -199,11 +199,15 @@ position:absolute;
 }
 
 blockquote { 
-    margin: 0 18px 18px 18px;
+    margin: 10px 18px 18px 18px;
     font-size:12px;
     color:#666;
     padding-left:10px;
     border-left:1px solid #ccc;
 }
 
-pre { margin: 0 18px 18px 18px;}
+pre { 
+    font-family: Courier;
+    font-size:11px;
+
+}
