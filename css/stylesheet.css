@@ -1,4 +1,5 @@
 @import url('/css/pub.css');
+@import url('/css/cv.css');
 
 * {
   margin: 0;
@@ -209,5 +210,4 @@ blockquote {
 pre { 
     font-family: Courier;
     font-size:11px;
-
 }
