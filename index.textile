@@ -12,5 +12,7 @@ My research interests lie in the intersection of
 * Learning with **minimal supervision**
 * **Efficient Inference** in large scale factor graphs
   
-
 See my "publications":/publications/all.html and "software":/software.html for more details.
+
+I am also interested in helping out the "Ishinomaki Children's Refuge Center":http://ishinomakicrc.wordpress.com/. 
+
