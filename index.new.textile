@@ -10,7 +10,7 @@ In order to improve the world, we need to understand the processes that shape it
 To achieve this goal I believe progress needs to be made in several areas, and I contributed to advance each of these:
 
 * Natural Language Processing components such as parsers or semantic role labellers ("riedel06incremental":http://riedelcastro.github.com/publications/details/riedel06incremental.html, "meza09jointly":http://riedelcastro.github.com/publications/details/meza09jointly.html).
-* Efficient Inference in probabilistic models ("riedel08improving":http://riedelcastro.github.com/publications/details/riedel08improving.html,"riedel10relaxed":http://riedelcastro.github.com/publications/details/riedel10relaxed.html).
+* Efficient Inference in probabilistic models ("riedel08improving":http://riedelcastro.github.com/publications/details/riedel08improving.html, "riedel10relaxed":http://riedelcastro.github.com/publications/details/riedel10relaxed.html).
 * Weak/distant supervision techniques to learn from existing structured knowledge sources ("riedel10modeling":http://riedelcastro.github.com/publications/details/riedel10modeling.html, "yao10collective":http://riedelcastro.github.com/publications/details/yao10collective.html).
 * Joint Inference between traditionally pipelined components ("riedel11fast":http://riedelcastro.github.com/publications/details/riedel11fast.html, "meza09jointly":http://riedelcastro.github.com/publications/details/meza09jointly.html, "yoshikawa09jointly":http://riedelcastro.github.com/publications/details/yoshikawa09jointly.html).
 
