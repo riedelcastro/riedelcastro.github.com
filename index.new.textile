@@ -5,7 +5,7 @@ title: Sebastian Riedel
 
 My name is Sebastian Riedel, and I'm currently a postdoctoral researcher at the "University of Massachusetts":http://www.umass.edu, working with "Andrew McCallum":http://www.cs.umass.edu/~mccallum/ in the "IESL lab":http://iesl.cs.umass.edu/.
 
-Whenever we advance our understanding of the world, we write down our findings in publications, patents, webpages or the like. This results in a vast and ever-increasing body of literature, impossible for a single entity to effectively access and comprehend. For example, about two thousand abstracts on biomedical research are added daily to the "PubMed":http://www.ncbi.nlm.nih.gov/pubmed/ online repository. The overarching goal of my research is to extract and distill this collective, but hidden and shattered, knowledge from natural language text. 
+Whenever we advance our understanding of the world, we write down our findings in publications, patents, webpages or the like. This results in a vast and ever-increasing body of literature, impossible for a single entity to effectively access and comprehend. For example, about two thousand abstracts on biomedical research are added daily to the "PubMed":http://www.ncbi.nlm.nih.gov/pubmed/ online repository. The overarching goal of my research is to extract and distill this knowledge. 
 
 To achieve this goal I believe progress needs to be made in several areas, and I contributed to advance each of these:
 
