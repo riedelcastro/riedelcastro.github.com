@@ -3,7 +3,7 @@ layout: site
 title: Sebastian Riedel
 ---
 
-My name is Sebastian Riedel, and I'm currently a postdoctoral researcher at the "University of Massachusetts":http://www.umass.edu, working with "Andrew McCallum":http://www.cs.umass.edu/~mccallum/ in the "IESL lab":http://iesl.cs.umass.edu/.
+My name is Sebastian Riedel, and I'm currently a research scientist at the "University of Massachusetts":http://www.umass.edu, working with "Andrew McCallum":http://www.cs.umass.edu/~mccallum/ in the "IESL lab":http://iesl.cs.umass.edu/.
 
 Whenever we advance our understanding of the world, we write down our findings in publications, patents, webpages or the like. This results in a vast and ever-increasing body of literature, impossible to effectively access and comprehend. The overarching goal of my research is to extract and distill this knowledge. 
 
