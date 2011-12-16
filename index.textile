@@ -3,7 +3,18 @@ layout: site
 title: Sebastian Riedel
 ---
 
-I am Sebastian Riedel, and I'm currently a postdoctoral researcher at the "University of Massachusetts":http://www.umass.edu, working with "Andrew McCallum":http://www.cs.umass.edu/~mccallum/ in the "IESL lab":http://iesl.cs.umass.edu/.
+My name is Sebastian Riedel, and I'm currently a postdoctoral researcher at the "University of Massachusetts":http://www.umass.edu, working with "Andrew McCallum":http://www.cs.umass.edu/~mccallum/ in the "IESL lab":http://iesl.cs.umass.edu/.
+
+In order to improve the world, we need to understand the processes that shape it. Scientists of different disciplines do exactly this, and whenever they advance their understanding, they write down their findings in publications, patents, ... [Example]... However, the sheer amount of text produced, and its ever-increasing nature, makes it impossible for a single person or entity to effectively grasp this knowledge. The overarching goal of my research is to extract and distill this knowledge from natural language text.    
+
+
+
+Often this knowledge is already present, 
+albeit shattered across 
+To do so, scientists observe the world 
+ we need  
+The amount 
+The main goal of my research is 
 
 My research interests lie in the intersection of 
 
