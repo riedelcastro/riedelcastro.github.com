@@ -3,6 +3,7 @@ layout: site
 title: Sebastian Riedel
 ---
 
+<<<<<<< HEAD
 My name is Sebastian Riedel, and I'm currently a postdoctoral researcher at the "University of Massachusetts":http://www.umass.edu, working with "Andrew McCallum":http://www.cs.umass.edu/~mccallum/ in the "IESL lab":http://iesl.cs.umass.edu/.
 
 In order to improve the world, we need to understand the processes that shape it. Scientists of different disciplines do exactly this, and whenever they advance their understanding, they write down their findings in publications, patents, ... [Example]... However, the sheer amount of text produced, and its ever-increasing nature, makes it impossible for a single person or entity to effectively grasp this knowledge. The overarching goal of my research is to extract and distill this knowledge from natural language text.    
@@ -15,15 +16,24 @@ To do so, scientists observe the world
  we need  
 The amount 
 The main goal of my research is 
+=======
+My name is Sebastian Riedel, and I'm currently a research scientist at the "University of Massachusetts Amherst":http://www.umass.edu, working with "Andrew McCallum":http://www.cs.umass.edu/~mccallum/ in the "IESL lab":http://iesl.cs.umass.edu/.
+>>>>>>> 8b086e1c87f4cb671dec20b6b68cf8a4b9f970fb
 
-My research interests lie in the intersection of 
+Whenever we advance our understanding of the world, we write down our findings in publications, patents, webpages or the like. This results in a vast and ever-increasing body of literature, impossible to effectively access and comprehend. The overarching goal of my research is to extract and distill this knowledge. 
 
-* **Natural Language Processing**, and in particular Machine Reading/Information Extraction
-* Statistical Relational Learning, Probabilistic Programming, and generally the **interface between AI applications and Machine Learning** Technology
-* Learning with **minimal supervision**
-* **Efficient Inference** in large scale factor graphs
-  
-See my "publications":/publications/all.html and "software":/software.html for more details.
+To achieve this goal I have been working in several areas of Natural Language Processing and Machine Learning I believe need to be advanced:
+
+* **Efficient Probabilistic Inference**: I designed methods that efficiently find exact MAP states, and approximate marginals, for high tree-width graphical models with millions of variables and factors ("UAI08":http://riedelcastro.github.com/publications/details/riedel08improving.html, "NAACL10a":http://riedelcastro.github.com/publications/details/riedel10relaxed.html, "NAACL09b":http://riedelcastro.github.com/publications/details/riedel09revisiting.html, "UAI10":http://riedelcastro.github.com/publications/details/riedel10inference.html).
+* **Joint Inference**: I developed language processors in which information can flow up and downwards, reducing the problem of cascading errors ("EMNLP11":http://riedelcastro.github.com/publications/details/riedel11fast.html, "NAACL09a":http://riedelcastro.github.com/publications/details/meza09jointly.html, "ACL09":http://riedelcastro.github.com/publications/details/yoshikawa09jointly.html).
+* **Distant supervision**: I trained graphicals models to extract Freebase facts from text, using no textual annotation but only existing Freebase facts as training signal: ("ECML10":http://riedelcastro.github.com/publications/details/riedel10modeling.html, "EMNLP10":http://riedelcastro.github.com/publications/details/yao10collective.html, "NAACL10b":http://riedelcastro.github.com/publications/details/singh10constraint.html).
+* **Linguistic Processsors**: I developed syntactic and semantic parsers that can efficiently capture global dependencies within the semantic structure to be extracted ("EMNLP06":http://riedelcastro.github.com/publications/details/riedel06incremental.html, "NAACL09a":http://riedelcastro.github.com/publications/details/meza09jointly.html, "ICASSP08":http://riedelcastro.github.com/publications/details/mezaruiz08accurate.html).
+
+The above research has enabled me develop state-of-the-art systems that consistently rank highest in international competitions on extracting information from biomedical literature: In 2011, and in collaboration with colleagues at Stanford, I developed an event extractor for biomedical text that ranked 1st in three tracks of the "BioNLP 2011 Shared Task":https://sites.google.com/site/bionlpst ("BIONLP11a":http://riedelcastro.github.com/publications/details/riedel11robust.html, "BIONLP11b":http://riedelcastro.github.com/publications/details/riedel11model.html); in 2009 I developed an event extraction system that ranked 1st in the "BioNLP 2009 Shared Task":http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/SharedTask, Track 2 ("BIONLP09":http://riedelcastro.github.com/publications/details/riedel09markov.html); in 2005 my protein-protein interaction extraction model ranked 1st in the "Learning Language in Logic Task":http://www.cs.york.ac.uk/mlg/lll/lll05/lll05-nedellec.pdf ("LLL05":http://riedelcastro.github.com/publications/details/riedel05genic.html)
+
+I am also very interested in Probabilistic Programming and Statistical Relational Learning. Progress in AI is slowed down by the difficulty of engineering large scale end-to-end systems that reason under uncertainty. Probabilistic Programming frameworks dramatically simplify this task. I have developed "markov thebeast":http://code.google.com/p/thebeast/, a Markov Logic engine used in research institutes around the world. It has helped developers to create state-of-the-art probabilistic models--without the need of a post-graduate degree in Machine Learning. I am also involved in the development of "factorie":http://code.google.com/p/factorie/.
+
+See my "publications":/publications/all.html and "software":/software.html for more details and an exhaustive list of publications.
 
 I am also interested in helping out the "Ishinomaki Children's Refuge Center":http://ishinomakicrc.wordpress.com/. 
 
