@@ -3,7 +3,7 @@ layout: site
 title: Sebastian Riedel
 ---
 
-*News*: I'm co-organizing a NAACL-HLT 2012 joint workshop on "Automatic Knowledge Base Construction and Web-scale Knowledge Extraction (AKBC-WEKEX 2012)":http://akbcwekex2012.wordpress.com/. Please consider submitting and attending!
+*News*: I co-organized the NAACL-HLT 2012 joint workshop on "Automatic Knowledge Base Construction and Web-scale Knowledge Extraction (AKBC-WEKEX 2012)":http://akbcwekex2012.wordpress.com/. Check out our accepted papers!
 
 My name is Sebastian Riedel, and I'm currently a research scientist at the "University of Massachusetts Amherst":http://www.umass.edu, working with "Andrew McCallum":http://www.cs.umass.edu/~mccallum/ in the "IESL lab":http://iesl.cs.umass.edu/.
 
