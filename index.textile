@@ -5,7 +5,7 @@ title: Sebastian Riedel
 
 *News*: I co-organized the NAACL-HLT 2012 joint workshop on "Automatic Knowledge Base Construction and Web-scale Knowledge Extraction (AKBC-WEKEX 2012)":http://akbcwekex2012.wordpress.com/. Check out our accepted papers!
 
-My name is Sebastian Riedel, and I'm currently a research scientist at the "University of Massachusetts Amherst":http://www.umass.edu, working with "Andrew McCallum":http://www.cs.umass.edu/~mccallum/ in the "IESL lab":http://iesl.cs.umass.edu/.
+I'm currently a research scientist at the "University of Massachusetts Amherst":http://www.umass.edu, working with "Andrew McCallum":http://www.cs.umass.edu/~mccallum/ in the "IESL lab":http://iesl.cs.umass.edu/.
 
 Whenever we advance our understanding of the world, we write down our findings in publications, patents, webpages or the like. This results in a vast and ever-increasing body of literature, impossible to effectively access and comprehend. The overarching goal of my research is to extract and distill this knowledge. 
 
