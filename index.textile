@@ -3,7 +3,7 @@ layout: site
 title: Sebastian Riedel
 ---
 
-*News*: I co-organized the NAACL-HLT 2012 joint workshop on "Automatic Knowledge Base Construction and Web-scale Knowledge Extraction (AKBC-WEKEX 2012)":http://akbcwekex2012.wordpress.com/. Check out our accepted papers!
+*News*: I will be a Lecturer (US Assistant Professor) at the "University College London":http://www.ucl.ac.uk starting this August. 
 
 I'm currently a research scientist at the "University of Massachusetts Amherst":http://www.umass.edu, working with "Andrew McCallum":http://www.cs.umass.edu/~mccallum/ in the "IESL lab":http://iesl.cs.umass.edu/.
 
@@ -20,7 +20,7 @@ The above research has enabled me develop state-of-the-art systems that consiste
 
 I am also very interested in Probabilistic Programming and Statistical Relational Learning. Progress in AI is slowed down by the difficulty of engineering large scale end-to-end systems that reason under uncertainty. Probabilistic Programming frameworks dramatically simplify this task. I have developed "markov thebeast":http://code.google.com/p/thebeast/, a Markov Logic engine used in research institutes around the world. It has helped developers to create state-of-the-art probabilistic models--without the need of a post-graduate degree in Machine Learning. I am also involved in the development of "factorie":http://code.google.com/p/factorie/.
 
-See my "publications":/publications/all.html and "software":/software.html for more details and an exhaustive list of publications.
+See my "publication":/publications/all.html, "software":/software.html and "scholar":http://scholar.google.com/citations?user=AcCtcrsAAAAJ&hl=en pages for more details.
 
 I am also interested in helping out the "Ishinomaki Children's Refuge Center":http://ishinomakicrc.wordpress.com/. 
 
