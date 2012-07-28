@@ -2,6 +2,7 @@
 /*Livefyre Header (comment & listner count)*/
 .lf_head_bar{
     font-family: Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+    color: red; 
 }
 
 .lf_comment_count{
