@@ -1,0 +1,51 @@
+#main ul.cv {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px; 
+}
+
+#main ul.cvsectionul {
+  list-style-type: none;
+  padding: 10px;
+  margin: 0px; 
+}
+
+
+#main ul.itemlist {
+  list-style-type: none;
+  padding: 10px;
+  margin: 10px; 
+}
+
+#main li.group {
+  list-style-type: none;
+}
+
+
+#main li.groupref {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;    
+}
+
+#main li.pubitem {
+    
+  list-style-type: none;
+  padding: 4px;
+  margin: 4px; }
+
+.grouptitle { 
+font-size:2em;
+}
+
+.title { 
+font-weight:bold; 
+}
+
+.booktitle {
+}
+
+.year {
+font-style:italic;    
+}
+
