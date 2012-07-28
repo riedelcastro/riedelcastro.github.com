@@ -1,10 +1,10 @@
 @import url('/css/pub.css');
 @import url('/css/cv.css');
-@import url('/css/lf_Override.css');
+//@import url('/css/lf_Override.css');
 
-.lf_head_bar{
+#livefyre {
     font-family: Georgia, Palatino, Times, 'Times New Roman', sans-serif;
-    color: red; 
+//    color: red; 
 }
 
 * {
