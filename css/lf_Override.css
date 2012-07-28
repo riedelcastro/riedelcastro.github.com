@@ -1,0 +1,72 @@
+
+/*Livefyre CSS Override */
+/*Livefyre Header (comment & listner count)*/
+.lf_head_bar{
+}
+
+.lf_comment_count{
+}
+
+.lf_listener_count{
+}
+
+.lf_avatar{
+}
+
+/* Login Bar */
+.lf_login_bar{
+}
+
+.lf_user_nick{
+}
+
+/*Action Bar (Following, Posts to FB/Twitter)*/
+.lf_action_bar{
+}
+
+/*the comments section*/
+.lf_comment_user{
+}
+#lf_comments{
+}
+.lf_comment_container{
+}
+.lf_comment_user_rating{
+color: #fff;
+}
+.lf_comment_date{
+color: #fff;
+}
+.lf_share{
+}
+.lf_flag{
+}
+.lf_flag_box{
+}
+
+
+#livefyre .lf_comment_container .lf_comment .lf_comment_footer .lf_admin_bar a {
+}
+
+#livefyre .lf_comment_container .lf_comment .lf_comment_footer .lf_flag {
+}
+
+#livefyre .lf_comment_container:hover .lf_comment .lf_comment_footer .lf_flag {
+}
+
+#livefyre .lf_comment_container .lf_comment .lf_comment_footer .lf_comment_date {
+}
+
+#livefyre .lf_comment_container .lf_comment .lf_comment_footer .lf_share {
+}
+
+#livefyre .lf_comment_container .lf_comment .lf_comment_footer .lf_share:hover {
+}
+
+#livefyre .lf_comment_container .lf_comment .lf_comment_footer .lf_mod_options {
+}
+
+#livefyre .lf_comment_container:hover .lf_comment .lf_comment_footer .lf_mod_options a:hover {   
+}
+
+
