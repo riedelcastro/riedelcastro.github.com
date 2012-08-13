@@ -3,7 +3,7 @@ layout: site
 title: Sebastian Riedel
 ---
 
-I'm currently a Lecturer (US Assistant Professor) at the "University College London":http://www.ucl.ac.uk.
+I'm currently a Lecturer[1] at the "University College London":http://www.ucl.ac.uk.
 
 Whenever we advance our understanding of the world, we write down our findings in publications, patents, webpages or the like. This results in a vast and ever-increasing body of literature, impossible to effectively access and comprehend. The overarching goal of my research is to extract and distill this knowledge. 
 
@@ -22,3 +22,4 @@ See my "publication":/publications/all.html, "software":/software.html and "scho
 
 I am also interested in helping out the "Ishinomaki Children's Refuge Center":http://ishinomakicrc.wordpress.com/. 
 
+fn1. Roughly equivalent to US Assistant Professor.
