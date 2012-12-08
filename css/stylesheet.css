@@ -69,6 +69,44 @@ position:absolute;
   /*width: 500px;*/
 }
 
+#main-left {
+    float:left;
+    /*width:70%;*/
+    margin-right:220px;
+}
+
+#main-right {
+    width: 200px;
+    float:right;
+    margin-left:-210px;
+    margin-right: 10px;
+
+}
+
+#middle {
+  
+  float:left;
+  margin-top: 15px;
+  /*margin-left:140px;*/
+  margin-right:-300px;
+
+}
+
+#right {
+
+  float:left
+  margin-top: 15px;
+  width: 300px;
+/*  
+  margin-left:-10px; 
+        float: left; 
+*/
+
+/*  margin-right:20px; */
+
+}
+
+
 #main h1 {
   font-size: 40px;
   font-weight: normal;
@@ -94,6 +132,33 @@ position:absolute;
 */
  
 }
+
+#middle h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: 0px;
+}
+
+#middle p {
+  margin: 20px 0;
+  
+ 
+}
+
+#middle ul {
+  margin: 20px;
+}
+
+#middle li {
+    /*
+  list-style-type: square;
+*/
+ 
+}
+
 
 #sidebar {
     

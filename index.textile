@@ -1,5 +1,5 @@
 ---
-layout: site
+layout: site-tweets
 title: Sebastian Riedel
 ---
 
