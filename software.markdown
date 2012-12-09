@@ -6,6 +6,7 @@ title: Sebastian Riedel
 
 Software
 ========
+* [ucleed](https://github.com/riedelcastro/ucleed): UCL/UMass Biomedical Event Extractor.
 * [What's Wrong With My NLP?](http://code.google.com/p/whatswrong/): Visualizer for Natural Language Processing.
 * [markov thebeast?](http://code.google.com/p/thebeast/): Markov Logic (like) inference and learning engine.
 * [frontlets](https://github.com/riedelcastro/frontlets): a scala library for typed maps and mongo support.  
