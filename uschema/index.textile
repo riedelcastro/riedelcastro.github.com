@@ -5,3 +5,5 @@ title: Universal Schema
 
 h1. Under Construction
 
+Here you will find the source code and data for "Relation Extraction with Matrix Factorization and Universal Schemas":http://www.riedelcastro.org/publications/details/riedel13relation.html. We are currently in the process of cleaning up bits and peaces, but should be ready by "NAACL":http://naacl2013.naacl.org/.
+
