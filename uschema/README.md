@@ -1,8 +1,3 @@
----
-layout: site-tweets
-title: Universal Schema
----
-
 Relation Extraction with Matrix Factorization and Universal Schemas NAACL 2013
 ==============================================================================
 
