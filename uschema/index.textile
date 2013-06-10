@@ -3,7 +3,7 @@ layout: site-tweets
 title: Universal Schema
 ---
 
-h1. Universal Schema: NAACL 2013
+h1. Universal Schema NAACL 2013
 
 Here you find the source code and data for "Relation Extraction with Matrix Factorization and Universal Schemas":http://www.riedelcastro.org/publications/details/riedel13relation.html. 
 
