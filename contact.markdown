@@ -5,7 +5,7 @@ title: Sebastian Riedel
 
 Email
 =======
-First Initial.Last Namel@ucl.ac.uk
+First Initial.Last Name@ucl.ac.uk
 
 Office
 =======
