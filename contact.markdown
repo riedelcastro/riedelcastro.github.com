@@ -23,4 +23,8 @@ United Kingdom
 Tel. No: ++44 20 3549 5254 (internal extension: 65254) <br>
 Fax. No: ++44 20 7387 1397  
 
+Calendar
+========
+
+I maintain a [public calendar](https://www.google.com/calendar/embed?src=73nhsfs6pauc4gvaas9an85apo%40group.calendar.google.com&ctz=Europe/London) to indicate when I am not in town.   
   
