@@ -9,7 +9,8 @@ First Initial.Last Name@ucl.ac.uk
 
 Office
 =======
-To visit me, my office is on the 5th floor of [One Euston Square](https://maps.google.co.uk/maps?q=40+melton+street+london&hl=en&sll=51.527182,-0.131321&sspn=0.00556,0.0131&gl=uk&hnear=40+Melton+St,+London+Borough+of+Camden,+London,+United+Kingdom&t=m&z=16). Let the person in the ground floor reception know you want to see me, and I can pick you up.  
+To visit me, my office is on the 5th floor of One Euston Square. Find a [map](https://maps.google.co.uk/maps?q=40+melton+street+london&hl=en&sll=51.527182,-0.131321&sspn=0.00556,0.0131&gl=uk&hnear=40+Melton+St,+London+Borough+of+Camden,+London,+United+Kingdom&t=m&z=16) here. Let the person in the ground floor reception know you want to see me, and I can pick you up.
+For orientation, here is a [photo](http://images.officespacelondon.com/scaled_photos/photo-14667-14.jpg) of the entrance of the building.
 
 My mailing address is:
 
