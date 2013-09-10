@@ -9,19 +9,18 @@ First Initial.Last Name@ucl.ac.uk
 
 Office
 =======
-To visit me, my office is on the 5th floor of [One Euston Square](http://oneustonsq.com/). Here is a [map](http://goo.gl/maps/JgIEK)
+To visit me, my office is room 5.04A on the 5th floor of [One Euston Square](http://oneustonsq.com/). Here is a [map](http://goo.gl/maps/JgIEK)
 and for orientation, here is a [photo](http://images.officespacelondon.com/scaled_photos/photo-14667-14.jpg) of the entrance of the building.
 
 Let the person in the ground floor reception know you want to see me, and I can pick you up.
 
 My mailing address is:
 
-Office 5.04A  
-University College London  
-Dept. of Computer Science (1ES) 
-Gower Street  
-London WC1E 6BT  
-United Kingdom  
+University College London <br/>
+Dept. of Computer Science (1ES) <br/>
+Gower Street <br/>
+London WC1E 6BT <br/>
+United Kingdom <br/>
 
 Tel. No: ++44 20 3549 5254 (internal extension: 65254) <br>
 Fax. No: ++44 20 7387 1397  
