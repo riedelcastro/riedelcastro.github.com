@@ -25,8 +25,10 @@ United Kingdom <br/>
 Tel. No: ++44 20 3549 5254 (internal extension: 65254) <br>
 Fax. No: ++44 20 7387 1397  
 
-Calendar
-========
+Office Hours
+============
+I have office hours on every
 
-I maintain a [public calendar](https://www.google.com/calendar/embed?src=73nhsfs6pauc4gvaas9an85apo%40group.calendar.google.com&ctz=Europe/London) to indicate when I am not in town.   
-  
+Thursday, 1 PM to 2 PM.
+
+You can expect me to be in my office unless I am out-of-town or away for other reasons. You can look up my status on this [public calendar](https://calendar.google.com/calendar/embed?src=4ahbnj9c2hfnkgdvuoqpriqdkg%40group.calendar.google.com&ctz=Europe/London). 
