@@ -36,6 +36,14 @@ Here are a few recent representative publications:
 [<a href="https://arxiv.org/abs/1707.07596">pdf</a>]
 [<a href="details/minervini2017adversarial.html">details</a>]
 </li>
+<li class="pubitem">
+<span class="title">Complex Embeddings for Simple Link Prediction</span>,
+<span class="author">Trouillon, Théo, <a href="http://www.cs.ucl.ac.uk/cs_people/J.Welbl.html/"><i>Welbl, Johannes</i></a>, <a href="https://gbouchar.github.io/"><i>Bouchard, Guillaume</i></a>, <a href="http://riedelcastro.github.com/"><i>Riedel, Sebastian</i></a> and Gaussier, Eric</span>,
+<span class="booktitle">International Conference on Machine Learning</span>
+<span class="year">2016</span>
+[<a href="http://jmlr.org/proceedings/papers/v48/trouillon16.pdf">pdf</a>]
+[<a href="details/trouillon2016complex.html">details</a>]
+</li>
 </ul>
 
 See my [publication](/publications/all.html), [software](/software.html) and [scholar](http://scholar.google.com/citations?user=AcCtcrsAAAAJ&hl=en) pages for more details.
