@@ -29,6 +29,6 @@ Office Hours
 ============
 I have office hours on every
 
-Thursday, 1 PM to 2 PM.
+Friday, 5 PM to 6 PM.
 
 You can expect me to be in my office unless I am out-of-town or away for other reasons. You can look up my status on this [public calendar](https://calendar.google.com/calendar/embed?src=4ahbnj9c2hfnkgdvuoqpriqdkg%40group.calendar.google.com&ctz=Europe/London). 
