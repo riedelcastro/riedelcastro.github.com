@@ -48,5 +48,7 @@ Here are a few recent representative publications:
 
 See my [publication](/publications/all.html), [software](/software.html) and [scholar](http://scholar.google.com/citations?user=AcCtcrsAAAAJ&hl=en) pages for more details.
 
+If you are interested in doing a PhD with me, please have a look at these [instructions](https://docs.google.com/document/d/1VhoSeFceF8Qw4r3yuek9EjYkyLpPzXhNZcIhsNkGYs0/edit#heading=h.3o6imtfoxq0u). 
+
 
 <sup>1</sup> Roughly equivalent to US Associate Professor.
