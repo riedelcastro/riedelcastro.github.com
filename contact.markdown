@@ -9,10 +9,14 @@ First Initial.Last Name@ucl.ac.uk
 
 Office
 =======
-To visit me, my office is room 5.04A on the 5th floor of [One Euston Square](http://oneustonsq.com/). Here is a [map](https://www.google.co.uk/maps/place/40+Melton+Street,+Kings+Cross,+London+NW1+2FD/@51.527345,-0.133598,17z/data=!3m1!4b1!4m2!3m1!1s0x48761b25b70d3e6f:0xe408a1920cbe4f7a?hl=en)
-and for orientation, here is a [photo](http://images.officespacelondon.com/scaled_photos/photo-14667-14.jpg) of the entrance of the building.
+To visit me, my office is at
 
-Let the person in the ground floor reception know you want to see me, and I can pick you up.
+1st Floor<br>
+90 High Holborn<br>
+London WC1V 6LJ<br>
+United Kingdom<br>
+
+Let the person in the ground floor reception know you want to see me.
 
 My mailing address is:
 
@@ -29,6 +33,6 @@ Office Hours
 ============
 I have office hours on every
 
-Friday, 5 PM to 6 PM.
+Wednesday, 6 PM to 7 PM.
 
 You can expect me to be in my office unless I am out-of-town or away for other reasons. You can look up my status on this [public calendar](https://calendar.google.com/calendar/embed?src=4ahbnj9c2hfnkgdvuoqpriqdkg%40group.calendar.google.com&ctz=Europe/London). 
