@@ -33,6 +33,6 @@ Office Hours
 ============
 I have office hours on every
 
-Thursday, 12 PM to 1 PM.
+Monday, 11 AM to 12 PM.
 
 Please **always email me in advance** if you want to stop by as I might be out-of-town. 
